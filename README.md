@@ -18,5 +18,5 @@ The lab protocol is `mdRAD_protocol_v2_mse.docx`, the oligos required (including
 
 ## Citation
 
-Peterson, Christopher R., Carly B. Scott, Rashin Ghaffari, Groves Dixon, and Mikhail V. Matz. 2024. “Mixed Patterns of Intergenerational DNA Methylation Inheritance in Acropora.” *Molecular Biology and Evolution* **41** (2): msae008.
+Peterson, Christopher R., Carly B. Scott, Rashin Ghaffari, Groves Dixon, and Mikhail V. Matz. 2024. “Mixed Patterns of Intergenerational DNA Methylation Inheritance in *Acropora*.” *Molecular Biology and Evolution* **41** (2): msae008.
 
