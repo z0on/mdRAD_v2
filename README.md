@@ -16,3 +16,7 @@ The lab protocol is `mdRAD_protocol_v2_mse.docx`, the oligos required (including
 - extraction of per-CpG counts: `extract_mdrad.sh` (this script was created by Christopher Peterson)
 - alternatively, for per-gene analysis, count reads mapping to your regions (most commonly, genes) using `featureCount`, https://doi.org/10.1093/bioinformatics/btt656, and analyze like RNA-seq data.
 
+## Citation
+
+Peterson, Christopher R., Carly B. Scott, Rashin Ghaffari, Groves Dixon, and Mikhail V. Matz. 2024. “Mixed Patterns of Intergenerational DNA Methylation Inheritance in Acropora.” *Molecular Biology and Evolution* **41** (2): msae008.
+
