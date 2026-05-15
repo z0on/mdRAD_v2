@@ -6,6 +6,7 @@ This RAD protocol generates reads initiated by methylated CpG sites (about half 
 ## Overview
 
 Briefly, DNA is digested by two restriction enzymes: the methylation-sensitive MspJI recognizing mCNNR sites, and methylation-insensitive MseI recognizing TTAA sites. Then, adaptors are ligated allowing for selective PCR amplification of MspJI – MseI fragments. These fragments are then sequenced from the MspJI side. 
+
 The lab protocol is `mdRAD_protocol_v2_mse.docx`, the oligos required (including some of the standard Illumina barcodes) are listed in `mdRAD_oligos_v2_mse.xlsx`.
 
 ## Analysis 
