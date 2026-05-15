@@ -12,7 +12,7 @@ The lab protocol is `mdRAD_protocol_v2_mse.docx`, the oligos required (including
 ## Analysis 
 
 - trimming and deduplicaton: `trim_mdRAD.pl`
-- mapping to reference genome: `mdRAD_mapping_dataExtraction.sh` (note: this script is for Lonestar6 system of Texas Advanced Computing Center; but look up mapping command setting there. The script also contains the data extraction loop for CpG analysis; we also have a separate script for that)
+- mapping to reference genome: `mdRAD_mapping_dataExtraction.sh` (note: this script is for Lonestar6 system of Texas Advanced Computing Center; cannibalize the `bowtie2` command for your system. The script also contains the data extraction loop for CpG analysis; we also have a separate script for that)
 - extraction of per-CpG counts: `extract_mdrad.sh` (this script was created by Christopher Peterson)
 - alternatively, for per-gene analysis, count reads mapping to your regions (most commonly, genes) using `featureCount`, https://doi.org/10.1093/bioinformatics/btt656, and analyze like RNA-seq data.
 
